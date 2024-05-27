@@ -14,3 +14,4 @@ C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-w
 C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.pdb
 C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.genruntimeconfig.cache
 C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\ref\Проверка.dll
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.sourcelink.json
