@@ -1,0 +1,16 @@
+C:\Users\pacme\source\repos\Проверка\Проверка\bin\Debug\net8.0-windows\Проверка.exe
+C:\Users\pacme\source\repos\Проверка\Проверка\bin\Debug\net8.0-windows\Проверка.deps.json
+C:\Users\pacme\source\repos\Проверка\Проверка\bin\Debug\net8.0-windows\Проверка.runtimeconfig.json
+C:\Users\pacme\source\repos\Проверка\Проверка\bin\Debug\net8.0-windows\Проверка.dll
+C:\Users\pacme\source\repos\Проверка\Проверка\bin\Debug\net8.0-windows\Проверка.pdb
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.Form1.resources
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.csproj.GenerateResource.cache
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.AssemblyInfoInputs.cache
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.AssemblyInfo.cs
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.csproj.CoreCompileInputs.cache
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.dll
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\refint\Проверка.dll
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.pdb
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\Проверка.genruntimeconfig.cache
+C:\Users\pacme\source\repos\Проверка\Проверка\obj\Debug\net8.0-windows\ref\Проверка.dll
